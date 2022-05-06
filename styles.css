@@ -1,0 +1,48 @@
+.cuerpo {
+    float:right;
+    width: 500px;
+    margin-right: 200px;
+}
+
+.imagen {
+    float: left;
+    margin-left: 200px;
+
+   
+
+}
+
+* {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+.button {
+    
+    background-color: white;
+    color: grey;
+    text-decoration: none;
+    font-size: x-large;
+
+}
+
+.todo {
+
+}
+
+.listados {
+    float: right;
+}
+.listauno {
+    float: left;
+}
+.foot {
+ margin-top: 100px;
+}
+
+.footer {
+    
+}
+
+input {
+    width: 100%;
+}
